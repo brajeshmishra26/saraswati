@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+/*
+|--------------------------------------------------------------------------
+| Local/Server Override Template
+|--------------------------------------------------------------------------
+| Copy this file to includes/config.local.php and set the active DB block.
+| This file is loaded by includes/config.php when present.
+*/
+
+return [
+    'db' => [
+        /*
+        | Development (XAMPP)
+        | 'host' => '127.0.0.1',
+        | 'port' => 3306,
+        | 'name' => 'saraswati_website',
+        | 'user' => 'root',
+        | 'pass' => '',
+        */
+
+        // Production example (update as required by your host)
+        'host' => '127.0.0.1',
+        'port' => 3306,
+        'name' => 'cpzunhsysc',
+        'user' => 'cpzunhsysc',
+        'pass' => 'replace-with-production-password',
+        'charset' => 'utf8mb4',
+    ],
+];

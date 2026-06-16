@@ -1,0 +1,2 @@
+upi://pay?pa=42636837783@sbi&pn=Maa%20Saraswati%20Sansthan&cu=INR
+

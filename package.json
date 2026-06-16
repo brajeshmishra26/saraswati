@@ -1,0 +1,14 @@
+{
+  "name": "maa-saraswati-sansthan",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build:css": "tailwindcss -i ./assets/css/tailwind-source.css -o ./assets/css/tailwind-built.css --minify",
+    "watch:css": "tailwindcss -i ./assets/css/tailwind-source.css -o ./assets/css/tailwind-built.css --watch"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17"
+  }
+}

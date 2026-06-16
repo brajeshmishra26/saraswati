@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff2dc"/>
+      <stop offset="100%" stop-color="#ffd49d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g1)"/>
+  <rect x="180" y="330" width="840" height="320" fill="#f8d39e" stroke="#c78f3a" stroke-width="6"/>
+  <polygon points="130,330 600,120 1070,330" fill="#d49a47"/>
+  <rect x="520" y="450" width="160" height="200" fill="#fef7e8" stroke="#b0721d" stroke-width="5"/>
+  <text x="600" y="90" text-anchor="middle" font-size="52" fill="#8a4f00" font-family="Arial">Temple Construction</text>
+</svg>

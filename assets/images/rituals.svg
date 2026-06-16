@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#fff6e6"/>
+  <circle cx="600" cy="420" r="220" fill="#ffd593" stroke="#d89a2f" stroke-width="8"/>
+  <path d="M600 190 L630 340 L780 340 L660 430 L700 580 L600 490 L500 580 L540 430 L420 340 L570 340 Z" fill="#f7b955"/>
+  <text x="600" y="120" text-anchor="middle" font-size="58" fill="#8a4f00" font-family="Arial">Sacred Rituals</text>
+</svg>
